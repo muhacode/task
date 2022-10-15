@@ -27,7 +27,6 @@ public class Login {
         saveBtn.click();
         Thread.sleep(4000);
 
-
         driver.quit();
 
     }
